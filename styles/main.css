@@ -26,3 +26,19 @@ h1:before {
 }
 
 /* global styling ends */
+/* fruits-vegetables-examples styling start */
+.fruits li,
+.vegetables li {
+  position: relative;
+  margin-bottom: 30px;
+}
+
+.fruits img,
+.vegetables img {
+  width: 74px;
+  position: absolute;
+  top: -20px;
+  left: 90px;
+}
+
+/* fruits-vegetables-examples styling end */
