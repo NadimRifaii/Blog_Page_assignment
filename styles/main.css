@@ -65,3 +65,9 @@ table td {
 }
 
 /* table styling ends */
+/* footer styling starts */
+footer p {
+  text-align: center;
+}
+
+/* footer styling ends */
